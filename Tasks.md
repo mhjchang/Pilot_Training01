@@ -72,6 +72,10 @@ void loop() { }
 ```
 
 ### Task 3: Connect circuitry with breadboard (DS18B20 Thermometer)
+- Connect the positive pole of DS18B20 -> 3.3V
+- Connect the negative pole of DS18B20 -> GND
+- Connect the data pole of DS18B20 -> Pin 25 of device
+- Add a 4.7K Ohm resistor between positive and data wire
 
 <img width="628" alt="DS18B20 Schematic flow" src="https://user-images.githubusercontent.com/90884001/134019218-d3c20020-0c1b-44cc-a54a-6ead74becbea.png">
 
