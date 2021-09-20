@@ -56,3 +56,7 @@ Upload the script to the device by clicking the **ARROW UPLOAD** button and wait
 
 <img width="728" alt="Step 6" src="https://user-images.githubusercontent.com/90884001/133970682-705486f3-c1b3-42ef-b792-5bb12cca286f.png">
 
+### Step 7:
+Click the **Magnifier** (Serial Monitor) icon at the right-top corner and a screen will show the response from the device.
+
+<img width="844" alt="Step 7" src="https://user-images.githubusercontent.com/90884001/133971605-5a134d83-ad9b-4ede-9d19-9e2977d92a87.png">
