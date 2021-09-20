@@ -34,7 +34,7 @@ Restart the Arduino IDE and select the item on **Tools** as below:
 
 ### Step 5:
 Test your device with this sample script
-Download here: [Device_Test.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Device_Test.ino)
+Download here: [Device_Test.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/Device_Test.ino)
 
 or copy and paste the below script:
 
