@@ -5,7 +5,7 @@ Instead of commonly used ATmega328P Microcontroller (in Arduino UNO, Arduino Nan
 You may have to install a ESP32 compiling module in Arduino IDE in order to detect your device.
 
 ```
-https://dl.espressif.com/dl/package_esp32_index.json
+https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_dev_index.json
 ```
 
 ### Step 1: 
@@ -16,7 +16,7 @@ Select **Preferences** on Arduino IDE toolbar
 ### Step 2:
 Edit the line **Additional Boards Manager URLs:**
 
-<img width="695" alt="Step 2" src="https://user-images.githubusercontent.com/90884001/133961383-f411b30d-2d73-4116-877f-b8f37b083ccf.png">
+<img width="722" alt="Step 2 _ New" src="https://user-images.githubusercontent.com/90884001/133971264-73cf3809-8316-4aee-894c-40d55b532ae9.png">
 
 ### Step 3:
 Select **Tools -> Board -> Boards Manager**
