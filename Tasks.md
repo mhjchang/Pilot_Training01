@@ -49,7 +49,7 @@ void drawCircle(void) {
 void printBuffer(void) {
     display.setTextAlignment(TEXT_ALIGN_CENTER);
     display.setFont(ArialMT_Plain_24);
-    display.drawString(65, 5, "HKU");
+    display.drawString(65, 5, "HKU");  //Try to edit your school name here 
     display.drawHorizontalLine(0, 35, 150);
     display.setFont(ArialMT_Plain_10);
     display.drawString(65, 40, "Pilot Workshop (Day 1)");
