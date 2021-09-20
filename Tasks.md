@@ -127,3 +127,4 @@ void loop() {
   }
 ```
 
+### Task 5: DS18B20 Calibration
