@@ -71,4 +71,4 @@ void setup() {
 void loop() { }
 ```
 
-Connecting circuitry with breadboard (
+### Task 3: Connecting circuitry with breadboard 
