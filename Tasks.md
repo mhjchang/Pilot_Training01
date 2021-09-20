@@ -126,7 +126,13 @@ void loop() {
   delay(1000);
   }
 ```
-### Task 5: Setup ThinkSpeak IoT Account
+### Task 5: Setup ThingSpeak IoT Account
+Register for a free account on ThingSpeak webpage:
+<img width="1440" alt="Thinkspeak Register" src="https://user-images.githubusercontent.com/90884001/134031113-0e2d4c2d-ee16-433a-b769-2b3193462513.png">
+
+Set your own channel layout and request API for data sending:
+<img width="877" alt="Thinkspeak API" src="https://user-images.githubusercontent.com/90884001/134031226-c776e37f-23aa-4cd4-bdf8-47ba877b995a.png">
+
 
 ### Task 6: Load the script for data uploading with Wi-Fi transmission
 Test your device with this sample script Download here: [PilotWorkshop_WiFi.ino]https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/PilotWorkshop_WiFi.ino)
