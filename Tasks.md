@@ -135,7 +135,7 @@ Set your own channel layout and request API for data sending:
 
 
 ### Task 6: Load the script for data uploading with Wi-Fi transmission
-Test your device with this sample script Download here: [PilotWorkshop_WiFi.ino]https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/PilotWorkshop_WiFi.ino)
+Test your device with this sample script Download here: [PilotWorkshop_WiFi.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/PilotWorkshop_WiFi.ino)
 
 or copy and paste the below script:
 ```
