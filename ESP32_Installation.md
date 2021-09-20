@@ -54,4 +54,5 @@ void loop() {
 ### Step 6:
 Upload the script to the device by clicking the **ARROW UPLOAD** button and wait...
 
-<img width="715" alt="Step 5" src="https://user-images.githubusercontent.com/90884001/133962527-88cf79aa-7d4a-4534-9ca7-fcebfab25230.png">
+<img width="728" alt="Step 6" src="https://user-images.githubusercontent.com/90884001/133970682-705486f3-c1b3-42ef-b792-5bb12cca286f.png">
+
