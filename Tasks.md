@@ -74,6 +74,9 @@ void loop() { }
 ### Task 3: Connect circuitry with breadboard 
 
 ### Task 4: Load the script for detecting temperature with DS18B20 Thermometer
+Test your device with this sample script Download here: [Monitor_DS18B20.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/Monitor_DS18B20.ino)
+
+or copy and paste the below script:
 ```
 // Include the required Arduino libraries:
 #include <SPI.h>
