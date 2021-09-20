@@ -71,4 +71,8 @@ void setup() {
 void loop() { }
 ```
 
-### Task 3: Connecting circuitry with breadboard 
+### Task 3: Connect circuitry with breadboard 
+
+### Task 4: Load the script for detecting temperature with DS18B20 Thermometer
+
+
