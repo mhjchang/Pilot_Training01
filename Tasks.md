@@ -6,7 +6,7 @@ Connect the TTGO deivce to computer and follow [ESP32 Installation Manual](https
 
 ### Task 2: Load the script for showing text on the monitor (SSD1306)
 Test your device with this sample script
-Download here: [Device_Test.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Device_Test.ino)
+Download here: [Monitor_SSD1306.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/Monitor_SSD1306.ino)
 
 or copy and paste the below script:
 
