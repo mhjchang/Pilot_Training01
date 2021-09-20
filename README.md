@@ -1,5 +1,6 @@
-# Pilot_Training01
-Welcome to HKU – Geography/STEM Pilot Workshop (Class 01)
+# Pilot_Training
+Welcome to HKU – Geography/STEM Pilot Workshop 
+2021 - 09 - 25 (Sat)
 
 ********************************************************************
 
@@ -22,4 +23,11 @@ Activities include:
 7) Field sampling – Weather Orienteering at HKU, and
 8) GPS positioning and data analysis
 
+Throughout the workshop, you will be able to:
+
+- Understand the structure and major components of a microcomputer system (Arduino in this project). 
+- Apply programming techniques and integrate electronic components and units for simple product design.
+- Demonstrate skills in computer-aided-draughting to produce detailed 2D and 3D drawings.
+- Design environmental sensors for different measurement campaign purposes.
+- Develop citizen science projects to study and analyse data from the environment.
 ********************************************************************
