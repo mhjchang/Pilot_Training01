@@ -28,5 +28,20 @@ Restart the Arduino IDE and select the item on **Tools** as below:
 
 ### Step 4:
 Test your device with this sample script
+Download here: [a link]
 
+or copy and paste the below script:
+
+```
+void setup() {
+  // put your setup code here, to run once:
+  Serial.begin(115200);
+  Serial.print("Welcome to HKU – Geography/STEM Pilot Workshop");
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+  Serial.println("Test");
+  delay(1000);
+}
 ```
