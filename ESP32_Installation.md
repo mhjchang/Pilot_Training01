@@ -19,6 +19,12 @@ Edit the line **Additional Boards Manager URLs:**
 <img width="695" alt="Step 2" src="https://user-images.githubusercontent.com/90884001/133961383-f411b30d-2d73-4116-877f-b8f37b083ccf.png">
 
 ### Step 3:
+Select **Tools -> Board -> Boards Manager**
+Enter ```ESP32``` and INSTALL
+
+<img width="799" alt="螢幕截圖 2021-09-20 下午3 24 04" src="https://user-images.githubusercontent.com/90884001/133968579-5b967694-57ed-402e-8325-6120ae2fc5e1.png">
+
+### Step 4:
 Restart the Arduino IDE and select the item on **Tools** as below:
 - Board: ESP32 Arduino -> T-Beam
 - Upload Speed: "115200"
@@ -26,7 +32,7 @@ Restart the Arduino IDE and select the item on **Tools** as below:
 
 <img width="552" alt="Step 3" src="https://user-images.githubusercontent.com/90884001/133961758-a9bf2240-7fe3-45e5-b806-1ce5b56d9c88.png">
 
-### Step 4:
+### Step 5:
 Test your device with this sample script
 Download here: [Device_Test.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Device_Test.ino)
 
@@ -46,7 +52,7 @@ void loop() {
 }
 ```
 
-### Step 5:
+### Step 6:
 Upload the script to the device by clicking the **ARROW UPLOAD** button and wait...
 
 <img width="715" alt="Step 5" src="https://user-images.githubusercontent.com/90884001/133962527-88cf79aa-7d4a-4534-9ca7-fcebfab25230.png">
