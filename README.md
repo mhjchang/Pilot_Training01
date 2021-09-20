@@ -12,13 +12,13 @@ sampling and data analysis in Geography fieldwork will be performed. The worksho
 with a refreshing interdisciplinary STEM learning experience from the perspective of Geography. Activities
 include:
 
-** Day 1 **
+**Day 1**
 ** 1) STEM lecture on Arduino-based technology, **
 ** 2) Build your own temperature instrument, **
 ** 3) Instrumental calibration experiment, **
 ** 4) Introduction to CAD drawing and 3D printing technology, **
 
-** Day 2 **
+**Day 2**
 5) Group sharing and discussion,
 6) Arduino programming,
 7) Field sampling – Weather Orienteering at HKU, and
