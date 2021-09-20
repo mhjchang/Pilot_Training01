@@ -128,4 +128,10 @@ void loop() {
 ```
 
 ### Task 5: DS18B20 Calibration
+--> Refer to powerpoint slides
+
 ### Task 6: Divide Groups
+--> Refer to powerpoint slides
+
+### Task 7: Touch on 3D CAD and 3D printing tools
+--> Refer to powerpoint slides
