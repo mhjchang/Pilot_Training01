@@ -1,4 +1,4 @@
-# Tasks Today
+# Tasks for today
 ********************************************************************
 
 ### Task 1: Test the device
