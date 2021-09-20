@@ -71,7 +71,10 @@ void setup() {
 void loop() { }
 ```
 
-### Task 3: Connect circuitry with breadboard 
+### Task 3: Connect circuitry with breadboard (DS18B20 Thermometer)
+
+<img width="628" alt="DS18B20 Schematic flow" src="https://user-images.githubusercontent.com/90884001/134019218-d3c20020-0c1b-44cc-a54a-6ead74becbea.png">
+
 
 ### Task 4: Load the script for detecting temperature with DS18B20 Thermometer
 Test your device with this sample script Download here: [Monitor_DS18B20.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/Monitor_DS18B20.ino)
