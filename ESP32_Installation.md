@@ -20,7 +20,7 @@ Edit the line **Additional Boards Manager URLs:**
 
 ### Step 3:
 Select **Tools -> Board -> Boards Manager**
-Enter ```ESP32``` and INSTALL
+Enter ```ESP32``` and INSTALL 1.0.6 version
 
 <img width="799" alt="螢幕截圖 2021-09-20 下午3 24 04" src="https://user-images.githubusercontent.com/90884001/133968579-5b967694-57ed-402e-8325-6120ae2fc5e1.png">
 
