@@ -1,6 +1,8 @@
 # Tasks for today
 ********************************************************************
 
+### Task 0: Installation of Arduino IDE
+
 ### Task 1: Test the device
 Connect the TTGO deivce to computer and follow [ESP32 Installation Manual](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/ESP32_Installation.md) to setup the environment
 
