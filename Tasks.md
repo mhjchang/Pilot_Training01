@@ -79,8 +79,7 @@ void loop() { }
 - Connect the data pole of DS18B20 -> Pin 25 of device
 - Add a 4.7K Ohm resistor between positive and data wire
 
-<img width="628" alt="DS18B20 Schematic flow" src="https://user-images.githubusercontent.com/90884001/134019218-d3c20020-0c1b-44cc-a54a-6ead74becbea.png">
-
+<img width="592" alt="DS18B20 Schematic _ V2" src="https://user-images.githubusercontent.com/90884001/134139253-05905ad6-8d27-4b13-b0b0-0bdbbfc80d2e.png">
 
 ### Task 4: Load the script for detecting temperature with DS18B20 Thermometer
 Test your device with this sample script Download here: [Monitor_DS18B20.ino](https://github.com/CoWIN-Workshop/Pilot_Training01/blob/main/Samples/Monitor_DS18B20.ino)
